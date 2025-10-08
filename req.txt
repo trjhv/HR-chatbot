@@ -1,0 +1,9 @@
+faiss-cpu
+langchain
+openai
+streamlit
+pypdf
+sentence-transformers
+fastapi
+uvicorn
+cachetools
