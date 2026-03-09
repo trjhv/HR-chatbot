@@ -7,3 +7,4 @@ sentence-transformers
 fastapi
 uvicorn
 cachetools
+anthropic>=0.39.0
